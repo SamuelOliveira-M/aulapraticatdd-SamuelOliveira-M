@@ -4,6 +4,6 @@ class Main {
 		Tests tests = new Tests();
 		tests.testMultiplication();
 		tests.testEquality();
-		tests.testCurrency();
+		tests.test	Currency();
 	}
 }
